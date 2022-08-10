@@ -14,7 +14,7 @@ Q: for frontend development, would you still use vim or switch to jetbrains?
 📺 https://youtu.be/CQvkgjoPKSc 
 
 Q: Mokokoppium: so i spend a chunk of my time on neovim, from vimscript
-   to lua, but in the end i had to drop it because it just wanst
+   to lua, but in the end i had to drop it because it just wasn't
    efficient compared to vscode, and i see that you use regular vim
    without any plugins, so im wondering what your opinion is
 
